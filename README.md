@@ -1,2 +1,2 @@
 # Java
-Aquí esta el lenguage fuente de mi curso Java
+Repositorio para mi curso de Java
